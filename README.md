@@ -1,5 +1,5 @@
 # ResQFlow
-It is an AI-powered disaster response systems use machine learning for prediction, real-time monitoring, and resource coordination to save lives during floods, earthquakes, or fires. AI prediction models for floods/earthquakes using weather/seismic data. detection from videos/images, inspired by open-source repos. Multilingual chatbot (Gemini API) for FAQs and alerts. It respnds to text, audio, video/picture inputs.
+It is an AI-powered disaster response systems use machine learning for prediction, real-time monitoring, and resource coordination to save lives during floods, earthquakes, or fires. AI prediction models for floods/earthquakes using weather/seismic data. detection from videos/images, inspired by open-source repos. Multilingual chatbot (Gemini API) for FAQs and alerts. It responds to text, audio, video/picture inputs.
 Project Details :-
 Dashboard — Live incident counter, evacuation stats, AI risk prediction bars (flood/earthquake/fire/cyclone), a satellite threat map with animated pins, and a live seismic waveform monitor.
 Alerts — Prioritized incident feed (critical → warning → info) with disaster type, location, and timestamps. Includes a broadcast emergency alert button.
